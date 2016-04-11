@@ -371,7 +371,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 570.324036, 327.527344, 32.5, 22.0 ],
 					"style" : "",
-					"text" : "72"
+					"text" : "73"
 				}
 
 			}
@@ -446,7 +446,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 342.324066, 326.527344, 32.5, 22.0 ],
 					"style" : "",
-					"text" : "72"
+					"text" : "73"
 				}
 
 			}
@@ -491,7 +491,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 114.324081, 321.527344, 32.5, 22.0 ],
 					"style" : "",
-					"text" : "60"
+					"text" : "58"
 				}
 
 			}
@@ -506,7 +506,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 38.324081, 321.527344, 32.5, 22.0 ],
 					"style" : "",
-					"text" : "59"
+					"text" : "55"
 				}
 
 			}
@@ -602,7 +602,43 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-24", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-12", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-12", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-1", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-14", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-23", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-14", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-24", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-14", 0 ]
@@ -873,6 +909,24 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-20", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-8", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-22", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-8", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-8", 0 ]
